@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 import time
 
-start_time = time.time()
+start_time = time.time() 
 #------------------------------------------------
 def readNameOfCities( nameOfFile ):
     with open(nameOfFile) as file:
